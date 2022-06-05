@@ -24,7 +24,7 @@ class CustomNavigatorBottomBarWidget extends StatelessWidget {
         ),
         BottomNavigationBarItem(
           icon: Icon(
-            Icons.compass_calibration_rounded,
+            Icons.location_on,
           ),
           label: 'Directions',
         ),
